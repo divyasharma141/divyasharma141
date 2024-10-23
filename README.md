@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @divyasharma141
+**👋 Hi, I’m @divyasharma141**
 
 -About Me
 Hello everyone! I am an undergraduate at NIT Hamirpur. I have hands-on experience in software development and, specializing in Java.
